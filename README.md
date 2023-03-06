@@ -10,3 +10,6 @@ Run setup.sh to pop it in
 
 ### To Do
 - [ ] Download auto-suggester from source
+
+
+![leafy](./Images/Leafy.jpg)
